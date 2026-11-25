@@ -1,3 +1,5 @@
+# fantasy-nba-ai-assistant
+
 # Fantasy NBA AI Assistant
 
 A personal, non-commercial AI-powered analytics project for Yahoo Fantasy Basketball.
